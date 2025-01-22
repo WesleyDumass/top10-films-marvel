@@ -87,3 +87,9 @@ h1 {
         flex: 0 1 100%;
     }
 }
+
+footer p {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-style: italic;
+}
